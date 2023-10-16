@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mostafa-Elshahawy
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Go
+-  Hi, I’m @Mostafa-Elshahawy
+-  I’m interested in Backend Development
+-  I’m currently learning Go
 
 
 <!---
