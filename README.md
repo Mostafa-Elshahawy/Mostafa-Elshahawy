@@ -6,7 +6,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=go,nodejs,docker,git,postman" />
+    <img src="https://skillicons.dev/icons?i=go,nodejs,html,css,docker,git,postman" />
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" /><br>
 </div>
 <br/>
