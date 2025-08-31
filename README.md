@@ -1,14 +1,19 @@
 ### Hello There 👋, I am Mostafa Elshahawy
-#### I am a passionate software engineer specializing in back-end development focusing on building robust and scalable systems using .NET, Go, Node.js and many other tools that I am continuously learning to improve my knowledge.
+#### Software Engineer with 1+ years of experience in back-end development. Passionate about building robust and scalable systems using .NET and Node.js. Continuously learning and exploring modern technologies to improve system performance and reliability.
 
 
  <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,go,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,postgres,mongo" />
+    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="48" alt="SQL Server"/>
  <br/>
-    <img src="https://skillicons.dev/icons?i=docker,git,postman,mongodb,postgres,mysql,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,git,postman,html,css,angular" /><br>
+<p align="center">
+
+</p>
+
 </div>
 <br/>
 <hr/>
